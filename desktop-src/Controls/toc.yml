@@ -989,10 +989,7 @@
       href: flat-scroll-bars-reference.md
       items: 
       - name: "Flat Scroll Bars Overview"
-        href: bumper-flat-scroll-bar-flat-scroll-bars-overview.md
-        items: 
-        - name: "Flat Scroll Bars"
-          href: flat-scroll-bars.md
+        href: flat-scroll-bars.md
       - name: "Flat Scroll Bar Reference"
         href: bumper-flat-scroll-bar-flat-scroll-bars-reference.md
         items: 
